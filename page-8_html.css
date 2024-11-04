@@ -1,0 +1,33 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#table_6a636fcf th { border: 0px solid #8C8C8C;  } 
+#table_6a636fcf td { border: 0px solid #8C8C8C;  } 
+body { background-color:#232C0E; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+#container_11b0438c { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:80px; max-width:1200px; background-color:#FFFFFF; background-image: url(rc_images/header_2.png); background-position:center left; background-size:cover;  }
+.textstyle2 { text-align:left; }
+#container_25c626af { vertical-align: top; position:relative; display: inline-block; width:100%; background:none;  }
+#container_25c626af_padding { margin: 0px 0px 0px 50px;display: block;  }
+.textstyle3 { font-size:28pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; font-weight:bold;  }
+.textstyle4 { font-size:24pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; font-weight:bold;  }
+.textstyle5 { font-size:14pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF;  }
+.textstyle6 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#container_7483db53 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background-color:#FFFFFF;  }
+#container_7483db53_padding { margin: 10px; display: block;  }
+.textstyle7 { text-align:right; }
+#container_6f97004c { vertical-align: top; position:relative; display: inline-block; margin:10px 0px 10px 0px;width:100%; background:none;  }
+#container_6f97004c_padding { margin: 10px 25px 10px 25px;display: block;  }
+.textstyle8 { font-size:12pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#000000; font-weight:bold; line-height: 1.5;  }
+#table_6a636fcf { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-table; width:100%; height:30px; background:none; border: 0px solid #8C8C8C; table-layout: fixed;  }
+#cell_4648d381 {  }
+#img_70481903 { vertical-align: bottom; position:relative; display: inline-block; width:400px; background:none; height:auto;  }
+#cell_4af4fd3 {  }
+#container_2a61f765 { vertical-align: top; position:relative; display: inline-block; margin:10px 0px 10px 0px;width:100%; background:none;  }
+#container_2a61f765_padding { margin: 10px; display: block;  }
+.textstyle9 { font-size:13pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+@media only screen and (max-width: 680px)
+{
+		#container_25c626af { width:80%;  }
+}
