@@ -2,8 +2,6 @@ a { color:#5D5D9E; }
 a:visited { color:#5D5D9E; } 
 a:active { color:#5C615E; } 
 a:hover { color:#B2B3B4; } 
-#table_11a0051 th { border: 0px solid #8C8C8C;  } 
-#table_11a0051 td { border: 0px solid #8C8C8C;  } 
 body { background-color:#232C0E; padding:0;  margin: 0; }
 .textstyle1 { text-align:center; }
 #container_3e575098 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:380px; max-width:1200px; background-color:#FFFFFF; background-image: url(rc_images/header.png); background-position:center left; background-size:cover;  }
@@ -18,10 +16,6 @@ body { background-color:#232C0E; padding:0;  margin: 0; }
 #container_1f421e47 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background-color:#FFFFFF;  }
 #container_1f421e47_padding { margin: 10px; display: block;  }
 .textstyle7 { text-align:right; }
-#table_11a0051 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-table; width:100%; background:none; border: 0px solid #8C8C8C; table-layout: fixed;  }
-#cell_63b62da2 {  }
-#img_2386f5af { vertical-align: bottom; position:relative; display: inline-block; width:100%; background:none; height:auto;  }
-#cell_7a45e9aa {  }
 #container_74cc30ce { vertical-align: top; position:relative; display: inline-block; margin:0px 10px 0px 10px;width:50%; background:none;  }
 #container_74cc30ce_padding { margin: 10px 25px 10px 25px;display: block;  }
 .textstyle8 { text-align:justify; }
@@ -34,6 +28,7 @@ body { background-color:#232C0E; padding:0;  margin: 0; }
 .textstyle11 { font-size:13pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
 #container_5616e585 { vertical-align: top; position:relative; display: inline-block; width:100%; background:none;  }
 #container_5616e585_padding { margin: 10px; display: block;  }
+#img_2386f5af { vertical-align: bottom; position:relative; display: inline-block; width:1092px; background:none; height:auto;  }
 #container_316d5227 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
 #container_316d5227_padding { margin: 10px; display: block;  }
 .ulstyle1 { margin:0; font-size: 12pt; color:#5D5D9E;  }
