@@ -20,7 +20,7 @@ body { background-color:#232C0E; padding:0;  margin: 0; }
 .textstyle7 { text-align:right; }
 #table_11a0051 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-table; width:100%; background:none; border: 0px solid #8C8C8C; table-layout: fixed;  }
 #cell_63b62da2 {  }
-#img_2386f5af { vertical-align: bottom; position:relative; display: inline-block; width:100%; background:none; box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.588235); height:auto;  }
+#img_2386f5af { vertical-align: bottom; position:relative; display: inline-block; width:100%; background:none; height:auto;  }
 #cell_7a45e9aa {  }
 #container_74cc30ce { vertical-align: top; position:relative; display: inline-block; margin:0px 10px 0px 10px;width:50%; background:none;  }
 #container_74cc30ce_padding { margin: 10px 25px 10px 25px;display: block;  }
